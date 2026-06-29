@@ -1,6 +1,6 @@
 export const API_BASE_URL = 'https://refugios-api.onrender.com';
 
-export const SITE_NAME = 'Terremoto Venezuela — Refugios';
+export const SITE_NAME = 'Refugios para venezuela';
 export const SITE_DESCRIPTION =
   'Directorio público de refugios sísmicos, puntos de resguardo y centros de acopio en Venezuela.';
 
